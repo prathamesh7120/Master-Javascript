@@ -28,8 +28,34 @@
 
 let someNumber = 33;
 
-let StringNumber = String(someNumber);
+// let StringNumber = String(someNumber);
 
-console.log(typeof StringNumber);
+// console.log(typeof StringNumber);
+
+
+// ************************operations***************************************
+
+let value = 3;
+let negvalue = -value;
+// console.log(negvalue);
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2/3);
+// console.log(2%3);
+
+
+let str1 = "Hello";
+let str2 = " Prathamesh";
+
+let str3 = str1 + str2;
+
+
+
+console.log(str3);
+
 
 
